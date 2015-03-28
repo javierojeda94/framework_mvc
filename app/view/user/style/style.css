@@ -1,0 +1,47 @@
+/* SELECTORS SECTION */
+*{
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	margin: 0px 4px;
+}
+
+a:hover{
+	color: #B7CC0C;
+}
+
+header, footer{
+	text-align: center;
+	color: white;
+	position: relative;
+	background-color: #268BF1;
+	height: auto;
+	width: 100%;
+	padding: 5px;	
+}
+
+/* CLASSES SECTION*/
+.msg {
+	background-color: #5cb85c;
+	color: white;
+	text-align: center;
+}
+
+/* ID'S SECTION*/
+#content{
+	background-color: #B27000;
+	width: 70%;
+	margin: 0px 15%;
+	position: relative;
+}
+
+#form, #users_list{
+	padding: 15px 0;
+	text-align: center;
+}
+
+
